@@ -22,6 +22,7 @@ You can use wsgi_profiler as a WSGI middleware of existing applications.
    $ python setup.py develop
 
 Example usage with Flask:
+
 .. code-block:: python
 
    from flask import Flask, request
