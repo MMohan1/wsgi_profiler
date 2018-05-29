@@ -216,7 +216,7 @@ Special Thanks
 ^^^^^^^^^^^^^^
 This project is inspired by the following projects:
 
- * `ymyzk/wsgi_lineprof <https://github.com/ymyzk/wsgi_lineprof>`_
+* `ymyzk/wsgi_lineprof <https://github.com/ymyzk/wsgi_lineprof>`_
 * `rkern/line_profiler <https://github.com/rkern/line_profiler>`_
 * `kainosnoema/rack-lineprof <https://github.com/kainosnoema/rack-lineprof>`_
 
