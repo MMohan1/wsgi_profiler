@@ -24,17 +24,17 @@ except ImportError:
     warn("Could not import Cython, using generated C source code instead")
 
 setup(
-    name="wsgi_lineprof",
+    name="wsgi_profiler",
 
     version="0.3.0",
 
     description="WSGI middleware for line-by-line profiling",
     long_description=long_description,
 
-    url="https://github.com/ymyzk/wsgi_lineprof",
+    url="https://github.com/MMohan1/wsgi_profiler",
 
-    author="Yusuke Miyazaki",
-    author_email="miyazaki.dev@gmail.com",
+    author="Man Mohan Sharma",
+    author_email="manmohansharma987@gmail.com",
 
     license="MIT",
 

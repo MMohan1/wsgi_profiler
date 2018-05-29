@@ -2,7 +2,7 @@ from io import TextIOWrapper  # noqa: F401
 import sys
 from typing import Callable, Iterable, TextIO, Union  # noqa: F401
 
-from wsgi_profiler.profiler import LineProfiler
+from wsgi_prof.profiler import LineProfiler
 #from wsgi_lineprof.stats import FilterType  # noqa: F401
 
 

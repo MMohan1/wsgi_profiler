@@ -6,7 +6,7 @@ from os import path
 from typing import Callable, Iterable, TextIO, Union  # noqa: F401
 import re
 from _wsgi_lineprof import LineProfiler as _LineProfiler
-from wsgi_profiler.filters import BaseFilter
+from wsgi_prof.filters import BaseFilter
 
 
 class LineProfilerStat(object):

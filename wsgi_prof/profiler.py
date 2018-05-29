@@ -1,6 +1,6 @@
 from _wsgi_lineprof import LineProfiler as _LineProfiler  # Cython
 
-from wsgi_profiler.stats import LineProfilerStat, LineProfilerStats
+from wsgi_prof.stats import LineProfilerStat, LineProfilerStats
 
 
 class LineProfiler(_LineProfiler):
